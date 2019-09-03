@@ -36,6 +36,7 @@ class Fib extends Component {
                 </div>
             );
         }
+        return entries;
     }
 
     handelSubmit = async (event) => {
